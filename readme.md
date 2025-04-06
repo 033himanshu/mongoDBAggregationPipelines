@@ -32,7 +32,7 @@
     - You can build reporting, dashboards, real-time metrics, and more, right on your data layer.
 
 # Practice Problems
-
+[Link for Data](https://gist.github.com/hiteshchoudhary/a80d86b50a5d9c591198a23d79e1e467)
 ## Sample User document
 ```json
 {
